@@ -38,7 +38,7 @@ Once you sign in, give your project a name and click **Start API Project from Gi
 <img src= "./ReadMe/Scraper1.png" width="400">
 
 
-Navigate through the `Functions folder` to `_main_.js` file. 
+Navigate through the `Functions folder` to `__main__.js` file. 
 
 <img src= "./ReadMe/scraper2.png" width="400">
 
